@@ -44,6 +44,7 @@ Le mini-jeu "Silent Teacher" a été une excellente opportunité pour renforcer 
 ![Minecraft Screenshot 2](./img/MineCraftCertif1.jpg)
 ![Minecraft Screenshot 3](./img/MineCraftCertif2.jpg)
 ![Minecraft Screenshot 4](./img/MineCraftCertif3.jpg)
+![code](./img/CE_Algo.png)
 
 🎉
 
